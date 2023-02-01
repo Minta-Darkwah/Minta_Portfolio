@@ -1,0 +1,33 @@
+h4 {color: grey;}
+h1 {text-align: center;}
+
+.tb1 {background-color: rgba(72, 202, 228, 0.4);}
+body {background-color: rgb(72, 202, 228);}
+.tb1 {text-align: center;}
+.tb1 {width: 200px; height: 10px;}
+.tb1 {border-radius: 5px 5px 5px 5px;}
+#idpulsante {width: 200px; height: 45px;}
+#idpulsante:hover {background-color: rgb(202, 240, 248);}
+#idpulsante {border-radius: 5px 5px 5px 5px; border: 0;}
+#idpulsante {background-color: rgba(72, 202, 228, 0.4);}
+
+
+
+h3 {text-align: center; color: lightblue;}
+#te1 {text-decoration: none; padding: 15px; color: black; border: 1px solid black; border-radius: 5px; width: 200px; height: 70px;}
+#te1:hover {background-color: lightblue;}
+#te2 {text-decoration: none; padding: 15px; color: black; border: 1px solid black; border-radius: 5px; width: 200px; height: 70px;}
+#te2:hover {background-color: lightblue;}
+#te3 {text-decoration: none; padding: 15px; color: black; border: 1px solid black; border-radius: 5px; width: 200px; height: 70px;}
+#te3:hover {background-color: lightblue;}
+#te4 {text-decoration: none; padding: 15px; color: black; border: 1px solid black; border-radius: 5px; width: 200px; height: 70px;}
+#te4:hover {background-color: lightblue;}
+img {text-align: right; border-radius: 5px 5px 5px 5px; width: 150px; height: 70px; float: right;}
+
+
+
+#im2 {width: 500px; height: 300px;
+border-radius: 20px 20px 20px 20px;
+border: solid 4px black;}
+
+
